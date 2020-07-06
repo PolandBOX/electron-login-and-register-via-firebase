@@ -1,0 +1,15 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "brak",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hasanoes",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "custom-electron-titlebar": "^3.2.2-hotfix62"
+  }
+}
