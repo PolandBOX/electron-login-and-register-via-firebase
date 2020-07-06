@@ -1,0 +1,13 @@
+.passwordWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+progress {
+    flex-basis: 100%;
+}
+
+body {
+    background-color: black;
+}
